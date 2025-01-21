@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  fl_chart: ^0.40.0 #dependencia añadida para utilizar las gráficas
 
 dev_dependencies:
   flutter_test:
